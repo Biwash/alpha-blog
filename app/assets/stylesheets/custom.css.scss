@@ -23,9 +23,10 @@ $navbar-default-bg: #6EC4DB;
 }
 
 .jumbotron {
+    margin-top:-25px;
     background-image: asset-url('kayak.jpg');
     background-size:cover;
-    height: 850px;
+    height: 680px;
 }
 
 .jumbotron h1{
